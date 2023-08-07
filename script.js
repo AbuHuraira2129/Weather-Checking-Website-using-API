@@ -1,3 +1,6 @@
+// Weather Checking App using API
+// By - Muhammad Abu Huraira
+
 const APIKey = "e76bc860e38747b1afd101920230708";
 
 var cityName = document.querySelector("#cityName");
