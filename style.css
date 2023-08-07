@@ -24,6 +24,12 @@
     padding: 30px;
 }
 
+.container h1{
+    font-size: 28px;
+    margin-bottom: 30px;
+    color: brown;
+}
+
 .search{
     width: 80%;
     display: flex;
@@ -52,7 +58,7 @@
     text-align: left;
     padding: 20px;
 }
-.content h1{
+.content h2{
     font-size: 18px;
     margin-top: 10px;
 }
